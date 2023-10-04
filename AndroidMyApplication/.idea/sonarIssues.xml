@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MME Android/TestApp/MyApplication/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MME Android/TestApp/MyApplication/app/src/main/java/com/example/myapplication/AppClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MME_Android/mme.adobe_launch_ext.android/mme.android.extension-master/code/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MME_Android/mme.adobe_launch_ext.android/mme.android.extension-master/code/src/com/marketo/ALMarketoHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../MME_Android/mme.adobe_launch_ext.android/mme.android.extension-master/code/src/com/marketo/MktoNetworkManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/lib/transition/RevealTransition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/EmailPreviewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/MomentActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/MomentsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/MomentsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/MomentsRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/PinView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/SmartListSummaryActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/data/Api.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/data/ApiSession.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/data/AuthenticationRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/data/resource/Moment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/src/main/java/com/marketo/moments/moment/EmailCampaignView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Moments/Moments-Android/app/version.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Momentsnew/Moments-Android/app/src/main/java/com/marketo/moments/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Momentsnew/Moments-Android/app/src/main/java/com/marketo/moments/EmailPreviewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Momentsnew/Moments-Android/app/src/main/java/com/marketo/moments/MomentActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Momentsnew/Moments-Android/app/src/main/java/com/marketo/moments/MomentsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Momentsnew/Moments-Android/app/src/main/java/com/marketo/moments/MomentsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Momentsnew/Moments-Android/app/src/main/java/com/marketo/moments/MomentsRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Momentsnew/Moments-Android/app/src/main/java/com/marketo/moments/PinView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
